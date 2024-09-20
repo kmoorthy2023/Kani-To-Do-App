@@ -34,7 +34,7 @@ Before you begin, ensure you have the following installed on your machine:
 
    First, clone the repository to your local machine:
 
-   git clone [https://github.com/your-username/Kani-to-do-list-app.git](https://github.com/kmoorthy2023/Kani-To-Do-App.git)
+   git clone https://github.com/your-username/Kani-to-do-list-app.git cd todo-list-app(https://github.com/kmoorthy2023/Kani-To-Do-App.git)
    cd todo-list-app
 
 2. **Install Dependencies**
