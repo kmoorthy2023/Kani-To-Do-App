@@ -1,0 +1,63 @@
+.App {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: #ebe8e3;
+    height: 100vh;
+    font-family: Arial, sans-serif;
+}
+h1 {
+    text-align: center;
+    color: #fed566;
+}
+input[type='text'] {
+    width: 80%;
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid #ccc;
+    font-size: 16px;
+    outline: none;
+    border: none;
+    background-color: #ebe8e3;
+    border-bottom: 2px solid #fed566;
+}
+button {
+    width: 10%;
+    padding: 10px;
+    margin: 10px;
+    background-color: #8ea05d;
+    color: #ffffff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+}
+button:hover {
+    background-color: #3d4b58;
+}
+li {
+    font-size: 18px;
+    color: #c9b6a1;
+    text-decoration:none;
+}
+p {
+    font-size: 18px;
+    margin: 20px;
+    margin-left: 5%;
+    color: #c9b6a1;
+}
+.addTodo {
+    margin-left: 10%;
+}
+h2 {
+    text-align: center;
+    color: #8ea05d;
+}
+.todoList {
+    width: 80%;
+    border: 1px solid #fed566;
+    border-radius: 5px;
+    margin: 10px 0;
+    margin-left: 10%;
+    background-color: #f8f9f8;
+}
